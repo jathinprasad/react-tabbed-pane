@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+.tabs-head {
+  display: flex;
+}
+.tabs {
+  border: 1px solid black;
+  padding: 10px 30px;
+}
+.tabs-body {
+  text-align: left;
+  padding: 40px;
+  border: 1px solid black;
+  height: 400px;
+}
+.button-hold {
+  display: flex;
+  margin: 10px;
+}
+.button-hold button {
+  margin: 10px;
+}
+.error {
+  color: red;
+  font-size: small;
+  display: block;
+}
